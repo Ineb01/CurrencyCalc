@@ -60,7 +60,7 @@ public class CurrencyCalc extends JFrame {
 	}
 	
 	public static void main(String [] args){
-		new CurrencyCalc("€","$", (float)1.23);
+		new CurrencyCalc("€","$", (float)1.22);
 	}
 	
 }
